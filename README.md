@@ -67,7 +67,7 @@ Once you have your Swift package set up, adding ElasticSwift as a dependency is 
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/pksprojects/ElasticSwift.git", from: "1.0.0-beta.1")
+    .package(url: "https://github.com/X7N4/ElasticSwift.git", branch: "main")
 ]
 ```
 
