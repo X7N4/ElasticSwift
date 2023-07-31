@@ -85,8 +85,8 @@ modules, specify the following dependencies:
 #### Swift 5.2 (`swift-tools-version:5.2`)
 
 ```swift
-    dependencies: [.product(name: "ElasticSwift", package: "elastic-swift"),
-                   .product(name: "ElasticSwiftCore", package: "elastic-swift")]
+    dependencies: [.product(name: "ElasticSwift", package: "elasticSwift"),
+                   .product(name: "ElasticSwiftCore", package: "elasticSwift")]
 ```
 
 ## Usage
